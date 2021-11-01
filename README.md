@@ -1,8 +1,8 @@
-<h1> <i>👋 Hi, I’m Aashlesha Shedge</i>
-- 👀 I’m interested in working on live projects and to learn new programming languages
-- 🌱 I’m currently learning javascript, advance java
-- 🎨 I love to read books in my free time.
-- 📫 How to reach me aashleshashedge@gmail.com
+<h1> <i>👋 Hi, I’m Aashlesha Shedge</i><br>
+- 👀 I’m interested in working on live projects and to learn new programming languages<br>
+- 🌱 I’m currently learning javascript, advance java<br>
+- 🎨 I love to read books in my free time.<br>
+- 📫 How to reach me aashleshashedge@gmail.com<br>
   + <h1><i>Education</h1></i>
   <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renuka Swaroop School, Pune</i></b><br>
    - Completed SSC <br>
