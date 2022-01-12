@@ -12,6 +12,7 @@
       <li><h1><i>Contact with me</h1></i>
   <a href="https:https://www.linkedin.com/in/aashlesha-shedge-898476210/" target="blank">
   <img align="left" alt="Linkedin Profile | LinkedIn" width="22px" src="https://www.linkedin.com/in/aashlesha-shedge-898476210/.svg" />
+   <img align="left" alt="Linkedin Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://www.instagram.com/aashlesha_2004/" target="blank">
 <img align="left" alt="aashlesha_2004| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <br>
   <ul>
