@@ -7,7 +7,7 @@
   <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renuka Swaroop School, Pune</i></b><br>
    - Completed SSC <br>
   <b> <i>MIT Polytechnic, Pune</i></b><br>
-   - Persuing Diploma in Computer Engineering <br>
+   - Pursuing Diploma in Computer Engineering <br>
    <ul>
       <li><h1><i>Contact with me</h1></i>
   <a href="https://www.linkedin.com/in/aashlesha-shedge-898476210/" target="blank">
