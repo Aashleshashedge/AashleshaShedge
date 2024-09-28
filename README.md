@@ -1,13 +1,15 @@
 <h1> <i>👋 Hi, I’m Aashlesha Shedge</i><br>
  👀 I’m interested in working on live projects and to learn new programming languages<br>
-🌱 I’m currently learning javascript, advance java<br>
+🌱 I’m currently learning various languages<br>
   🎨 I love to read books in my free time.<br>
  📫 How to reach me aashleshashedge@gmail.com <br>
    <h1><i>Education</h1></i>
-  <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renuka Swaroop School, Pune</i></b><br>
+  <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Renuka Swaroop Girls High School, Pune</i></b><br>
    - Completed SSC <br>
   <b> <i>MIT Polytechnic, Pune</i></b><br>
-   - Pursuing Diploma in Computer Engineering <br>
+   - Completed Diploma in Computer Engineering <br>
+    <b> <i>MESWCOE, Pune</i></b><br>
+   - Persuing Engineering in Electronics And Telecommunication <br>
    <ul>
       <li><h1><i>Contact with me</h1></i>
   <a href="https://www.linkedin.com/in/aashlesha-shedge-898476210/" target="blank">
