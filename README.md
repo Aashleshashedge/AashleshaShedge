@@ -25,8 +25,8 @@
 <img align="left" alt="VB.NET" width="26px" src="https://user-images.githubusercontent.com/93462095/139620936-1debe031-9f4e-447e-8bed-c86daec8a276.jpeg" />
 <img align="left" alt="CSS" width="18px" src="https://user-images.githubusercontent.com/93462095/139620952-7d381176-f727-415f-95fa-07498f9f3a5d.png" />
 <img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/93462095/139620958-d461e6e4-14f6-4167-9d71-ff3b8fa25098.png" />
-     
-
+<img align="left" alt="Android" width="26px" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/android-programming-language-icon-symbol-logo-vector-.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <!---
 Aashleshashedge/Aashleshashedge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
